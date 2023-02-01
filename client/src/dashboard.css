@@ -1,0 +1,18 @@
+
+  body {
+    background: #ffffff;
+    background: linear-gradient(  
+      135deg,
+      rgb(33, 154, 206) 0%,
+      rgb(39, 236, 209) 100%
+    );
+  }
+
+*{
+    color: #ffffff;
+    font-family: 'Inter', sans-serif;
+    font-size: px;
+    font-weight: 600;
+    line-height: 20px;
+    text-decoration: none;
+  }
